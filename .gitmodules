@@ -1,0 +1,3 @@
+[submodule "HVAuto"]
+	path = HVAuto
+	url = https://github.com/neko-para/HVAuto
