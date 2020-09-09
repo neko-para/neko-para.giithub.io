@@ -1,3 +1,6 @@
 [submodule "HVAuto"]
 	path = HVAuto
 	url = https://github.com/neko-para/HVAuto
+[submodule "ALHS"]
+	path = ALHS
+	url = https://github.com/neko-para/ALHS
