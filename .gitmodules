@@ -4,3 +4,6 @@
 [submodule "ALHS"]
 	path = ALHS
 	url = https://github.com/neko-para/ALHS
+[submodule "SC-Pub-Wiki"]
+	path = SC-Pub-Wiki
+	url = git@github.com:neko-para/SC-Pub-Wiki.git
